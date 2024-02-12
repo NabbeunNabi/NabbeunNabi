@@ -3,6 +3,7 @@
 -  I’m currently learning data structures and algorithms. In the future I would like to learn AWS and am looking into courses to be an AWS Certified Solutions Architect.
 -  I’m looking to collaborate on projects that positively impact the environment and/or the restaurant industry.
 -  Do not hesitate to contact me at williamedwardbrammer@gmail.com or connect with me and contact me via [LinkedIn](https://www.linkedin.com/in/william-brammer/).
+-  If you have problems choosing restaurants while out with friends and have decision paralysis, I recommend [Jacareview](https://www.jacareview.com/).
 
 
 <!---
