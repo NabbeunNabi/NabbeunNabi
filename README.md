@@ -3,8 +3,6 @@
 -  I have worked freelance to help companies build their tech branches internally and externally.
 -  I am not only a Software Engineer, but tech communicator as I teach beginners the basics of JavaScript.
 -  Do not hesitate to contact me at williamedwardbrammer@gmail.com or connect with me and contact me via [LinkedIn](https://www.linkedin.com/in/william-brammer/).
--  If you have problems choosing restaurants while out with friends and have decision paralysis, I recommend [Jacareview](https://www.jacareview.com/).
-
 
 <!---
 NabbeunNabi/NabbeunNabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
